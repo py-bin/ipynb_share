@@ -1,0 +1,25 @@
+函数,作用,示例
+repeat(),重复,s.str.repeat(3)
+pad(),左右补齐,"s.str.pad(5,fillchar='*')"
+center()?,中间补齐,"s.str.center(10, fillchar=""?"")"
+ljust(),右边补齐,"s.str.ljust(10, fillchar=""?"")"
+rjust(),左边补齐,"s.str.rjust(10, fillchar=""?"")"
+zfill(),左边补0,s.str.zfill(10)
+wrap(),指定位置加回车,s.str.wrap(3)
+slice_replace(),指定位置替换,"s.str.slice_replace(1, 3, ""?"")"
+count(),计算指定单词次数,"s.str.count(""a"")"
+startswith(),判断是否以给定的字符串开头,"s.str.startswith(""a"")"
+endswith(),判断是否以给定的字符串结束,"s.str.endswith(""e"")"
+strip(),去除前后的空白字符,s.str.strip()
+rstrip(),去除后面的空白字符,s.str.rstrip()
+lstrip(),去除前面的空白字符,s.str.lstrip()
+lower(),全部小写,s.str.lower()
+upper() ,全部大写,s.str.upper()
+capitalize(),首字母大写,s.str.capitalize()
+swapcase(),大小写互换,s.str.swapcase()
+isalpha(),是否全部是字母,s.str.isalpha()
+isdigit(),是否全部都是数字,s.str.isdigit()
+isspace(),是否空格,s.str.isspace()
+islower(),是否全部小写,s.str.islower()
+isupper(),是否全部大写,s.str.isupper()
+istitle(),是否只有首字母为大写,s.str.istitle()
