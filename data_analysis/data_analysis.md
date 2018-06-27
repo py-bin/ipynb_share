@@ -68,6 +68,8 @@ $$环比=\frac{当月发展量}{上月发展量}-1$$；$$渠道占比=\frac{电�
 
 ### 第三节：数据可视化
 
+[matplotlib示例：可视化排序算法](https://www.bilibili.com/video/av25140582/)
+
 - [matplotlib简易教程](http://nbviewer.jupyter.org/github/py-bin/ipynb_share/blob/master/matplotlib_study/common_graphics.ipynb) ，推荐使用matplotlib画图
 - 使用pandas内置画图函数
 
